@@ -247,6 +247,13 @@ footer {
         padding-bottom: 5px;
     }
 
+    .container {
+        width: 100%;
+        max-width: 960px;
+        margin: 0 auto;
+        clear: both;
+      }
+
   @media screen and (max-width: 640px) {
     header {
         height: 100%;
