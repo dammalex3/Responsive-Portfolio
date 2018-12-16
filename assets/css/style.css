@@ -143,6 +143,7 @@ footer {
     margin-bottom: 25px;
     width: 350px;
     height: 250px;
+    border: 1px solid grey;
 }
 
 .image-label {
@@ -168,6 +169,11 @@ footer {
     background: #666666;
     border-top: 8px solid #4aaaa5;
     height: 30px;
+  }
+
+  .portfolio-image {
+      height: 100%;
+      width: 100%;
   }
 
   @media screen and (max-width: 980px) {
